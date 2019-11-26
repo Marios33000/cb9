@@ -7,7 +7,8 @@ import java.util.Scanner;
 public class AssignmentProject1 {
 
     public static void main(String[] args) {
-
+        System.out.println("e");
+        System.out.println("e");
         //LISTS FOR EVERY CLASS
         List<Students> allStudents = new ArrayList();
         List<Students> javaStudents = new ArrayList();
